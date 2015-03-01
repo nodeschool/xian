@@ -13,7 +13,7 @@
 #top .container .title {
     background: rgba(205, 225, 288, 0.6);
     text-align: center;
-    font-size: 80px;
+    font-size: 100px;
     margin: 120px;
     margin-bottom: 0;
     color: #3B9DA2;
@@ -23,7 +23,7 @@
     background: #3B9DA2;
     margin-bottom: 120px;
     text-align: center;
-    font-size: 16px;
+    font-size: 20px;
     color: #FFF;
 }
 
@@ -47,21 +47,50 @@
     width: 300px;
     text-align: center;
     margin: 30px auto;
+    padding: 10px;
+    color: #FFF;
+    display: block;
+    font-weight: bold;
+    -moz-transition: all .5s; /* Firefox 4 */
+    -webkit-transition: all .5s; /* Safari 和 Chrome */
+    -o-transition: all .5s; /* Opera */
 }
 
-.signup-title a {
-    color: #FFF;
+
+.signup-title:hover {
+    color: #6BCDE2;
+    background: #FFF; 
 }
 
 .signup-subtitle {
     font-size: 24px;
     font-weight: normal;
     text-align: center;
+}
 
+.signup-subtitle a {
+    text-decoration: underline;
+    color: #E26B00;
+    font-style: italic;
 }
 
 #bottom {
     background: #528EC6;
-    height: 100px;
+    color: white;
+}
+
+#bottom p {
+    text-align: center;
+}
+
+#bottom ul a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#bottom ul li {
+    display: inline-block;
+    margin-left: 20px;
 }
 
