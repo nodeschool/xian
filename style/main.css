@@ -32,8 +32,6 @@
     font-style: italic;
 }
 
-/*#top .*/
-
 #middle {
     background: #6BCDE2;
     color: #FFF;
@@ -83,14 +81,13 @@
     text-align: center;
 }
 
-#bottom ul a {
+#bottom div a {
     color: #FFF;
     font-weight: bold;
     text-decoration: underline;
 }
 
-#bottom ul li {
-    display: inline-block;
-    margin-left: 20px;
+#bottom .mail-list {
+    text-align: center;
 }
 
