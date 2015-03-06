@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/nodeschool/xian](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodeschool/xian?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+![](./logo/nodeschool-xian.png =200x)
+
 ## The Organizers
 
 ### ThoughtWorks Academy
