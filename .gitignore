@@ -1,3 +1,5 @@
 semantic
 node_modules
 semantic.json
+.DS_Store
+source-image
